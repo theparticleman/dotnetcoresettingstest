@@ -1,0 +1,7 @@
+{
+    "postgres": 
+    {
+        "username": "foo",
+        "password": "super secret password"
+    }
+}
